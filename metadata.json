@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Pulse",
+  "description": "Civic telemetry, live smog & AQI monitor, weather alerts, hourly forecasts, and national provincial radar for Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
